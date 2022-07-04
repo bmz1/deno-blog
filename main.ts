@@ -1,4 +1,4 @@
-import blog, { ga } from "https://deno.land/x/blog@0.3.3/blog.tsx";
+import blog, { ga } from "https://cdn.jsdelivr.net/gh/bmz1/deno_blog@0.3.5/blog.tsx";
 
 blog({
   title: "bmz-codez",

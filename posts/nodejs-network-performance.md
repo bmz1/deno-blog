@@ -2,6 +2,7 @@
 title: 'Improving Node.js network performance'
 publish_date: 2022-07-04
 author: 'bmz'
+tags: ['nodejs', 'network', 'http', 'performance']
 description: "In this post, I’ll walk you through what kind of bottlenecks I've found under high load, and how to address them."
 ---
 
