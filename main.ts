@@ -7,6 +7,7 @@ blog({
   avatar: './assets/terminal.png',
   avatarClass: "full",
   background: "#f9f9f9",
+  style: "ol{ list-style-type: decimal;; } ul{ list-style: square; }",
   links: [
     { title: "GitHub", url: "https://github.com/bmz1" },
     { title: "Linkedin", url: "https://www.linkedin.com/in/bmz1/" },
